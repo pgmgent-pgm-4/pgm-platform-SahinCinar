@@ -2,6 +2,14 @@
 
 PGM Platform
 
+Live demo [_here_](https://pgm-platform-sahincinar.onrender.com/).
+
+## Setup/Installation Requirements
+
+-   npm i
+-   cd server => npm run start
+-   cd client => serve -s build
+
 ## Client
 
 `.env` file under the client folder with the following content:
@@ -35,3 +43,11 @@ JWT_SECRET=
 JWT_EXPIRE=24h
 GRAPHCMS_CONTENT_API=
 ```
+
+## License
+
+This project is open source and available under the [Apache License]().
+
+## Contact
+
+Created by [@SahinCinar](Sahincinar2003@hotmail.com) - feel free to contact me!
